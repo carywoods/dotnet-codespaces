@@ -1,0 +1,4 @@
+this is a dotnet codespace.  
+I dont have a project at this time
+just thought I would have some practice.
+
